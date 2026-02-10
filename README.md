@@ -52,7 +52,7 @@ cp -r feynman-johari-skill/SKILL.md ~/.claude/skills/feynman-johari/SKILL.md
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/claude-skills-collection.git
+git clone https://github.com/yingcheng1026/tongpin-skills.git
 ```
 
 ---
@@ -105,4 +105,4 @@ MIT License
 
 ## 作者
 
-Ethan @ [Twitter/X](https://x.com/0xPickleCati)
+同频共振 @ [Twitter/X](https://x.com/wngyngchng5388)
